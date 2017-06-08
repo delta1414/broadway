@@ -10,31 +10,31 @@ body {
   background-color:gray;
 }
 .des{
-  font-family: Helvetica;
   font-size:23px;
-  font-weight: bold;
   color: white;
   background-image: url(" ../images/the-flatiron-building.png");
   background-color:gray;
 }
-h1 {
-  font-family: Helvetica;
-  font-size:70px;
-  font-weight: bold;
+.des1{
+  font-size:23px;
   color: white;
-
+  background-color:darkkhaki;
+}
+.des, h1, h2, h3{
+  font-family: Helvetica;
+  font-weight: bold;
+}
+h1 {
+    font-size:70px;
+    color: white;
 }
 h2 {
-  font-family: Helvetica;
-  font-size:32px;
-  font-weight: bold;
-  color: black;
+    font-size:32px;
+    color: black;
 }
 h3 {
-  font-family: Helvetica;
-  font-size:23px;
-  font-weight: bold;
-  color: black;
+    font-size:23px;
+    color: black;
 }
 
 a {
